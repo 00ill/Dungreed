@@ -42,7 +42,7 @@ CharacterMovement.cs
 
 #### 변수
 - `private` 속성은 언더바( _ ) 후 카멜케이스 적용
-- `public` 속성은 카멜케이스 적용
+- `public` 속성은 파스칼케이스 적용
   - 기본적으로 `public` 변수는 사용하지 않는다. 사용시 `프로퍼티`로 선언
   - 유니티 인스펙터에 노출시켜야 할 경우 `private` 과 `[SerializeField]` 사용
 - bool 타입은 상태를 나타내기 위해 `is`를 붙인다.
