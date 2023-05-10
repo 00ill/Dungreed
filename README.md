@@ -128,7 +128,7 @@ public enum ECharacterState
 }
 ```
 ### Coroutine
-- 이름 마지막에 _co 추가
+- 이름 마지막에 '_co' 추가
 
 ```cs
 private IEnumerator Move_co()
