@@ -54,10 +54,10 @@ CharacterMovement.cs
 // ex>
 public class Player
 {
-    private bool _isBool;
-
-    public bool isRun { get; private set; }
+    private bool _isrun;
+    public bool IsRun { get; private set; }
     
+    private int eventStep;
     public int EventStep { get; private set; }
     
     [SerializeField] private float _maxHp;
