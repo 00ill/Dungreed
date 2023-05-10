@@ -42,10 +42,10 @@ CharacterMovement.cs
 
 #### 변수
 - `private` 속성은 언더바( _ ) 후 카멜케이스 적용
-- `public` 속성은 파스칼케이스 적용
+- `public` 속성은 카멜케이스 적용
   - 기본적으로 `public` 변수는 사용하지 않는다. 사용시 `프로퍼티`로 선언
   - 유니티 인스펙터에 노출시켜야 할 경우 `private` 과 `[SerializeField]` 사용
-- bool 타입은 상태를 나타내기 위해 `Is`를 붙인다.
+- bool 타입은 상태를 나타내기 위해 `is`를 붙인다.
   - 상태를 저장/표기하기 위함이 아닌 경우 붙이지 않아도 무방.
 - 변수명이 길어 약칭을 사용할 경우 주석으로 표기
 - 타입을 즉각 알 수 없는 `var`타입은 사용 지양
@@ -56,7 +56,7 @@ public class Player
 {
     private bool _isBool;
 
-    public bool IsRun { get; private set; }
+    public bool isRun { get; private set; }
     
     public int EventStep { get; private set; }
     
