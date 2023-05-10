@@ -145,3 +145,48 @@ private IEnumerator Move_co()
   - 수정 및 보완을 다른 사람에게 부탁할 때
 
 
+## 6. 참여자
+<table>
+    <tr align="center">
+        <td><B>Lead•FE•UI/UX<B></td>
+        <td><B>Front-end<B></td>
+        <td><B>Front-end<B></td>
+        <td><B>Front-end<B></td>
+        <td><B>Front-end<B></td>
+    </tr>
+    <tr align="center">
+        <td><B>한규진<B></td>
+        <td><B>정상훈<B></td>
+        <td><B>강나연<B></td>
+        <td><B>이한비<B></td>
+        <td><B>김유진<B></td>
+    </tr>
+    <tr align="center">
+        <td>
+            <img src="https://github.com/9yujin.png?size=100">
+            <br>
+            <a href="https://github.com/9yujin"><I>9yujin</I></a>
+        </td>
+        <td>
+            <img src="https://github.com/wjdtkdgns.png?size=100" width="100">
+            <br>
+            <a href="https://github.com/wjdtkdgns"><I>wjdtkdgns</I></a>
+        </td>
+        <td>
+            <img src="https://github.com/kongnayeon.png?size=100" width="100">
+            <br>
+            <a href="https://github.com/kongnayeon"><I>kongnayeon</I></a>
+        </td>
+        <td>
+            <img src="https://github.com/AlmondBreez3.png?size=100" width="100">
+            <br>
+            <a href="https://github.com/AlmondBreez3"><I>AlmondBreez3</I></a>
+        </td>
+        <td>
+            <img src="https://github.com/eugene028.png?size=100" width="100">
+            <br>
+            <a href="https://github.com/eugene028"><I>eugene028</I></a>
+        </td>
+    </tr>
+</table>
+
