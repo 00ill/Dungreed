@@ -127,6 +127,16 @@ public enum ECharacterState
     ANGRY
 }
 ```
+### Coroutine
+- 이름 마지막에 _co 추가
+
+```cs
+private IEnumerator Move_co()
+{
+    yield return null;
+}
+```
+
 
 ### 추가적인 스크립트 내 주석 표기(권장사항, 강요 없음)
 - `// TODO : 내용`
