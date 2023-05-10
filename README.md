@@ -156,29 +156,29 @@ private IEnumerator Move_co()
     </tr>
     <tr align="center">
         <td>
-            <img src="https://github.com/Cowhydra.png?size=100">
+            <img src="https://github.com/Cowhydra.png?size=100" width="100">
             <br>
-            <a href="https://github.com/Cowhydra"><I>9yujin</I></a>
+            <a href="https://github.com/Cowhydra"><I>Cowhydra</I></a>
         </td>
         <td>
             <img src="https://github.com/Kim-hyun-hee.png?size=100" width="100">
             <br>
-            <a href="https://github.com/Kim-hyun-hee"><I>wjdtkdgns</I></a>
+            <a href="https://github.com/Kim-hyun-hee"><I>Kim-hyun-hee</I></a>
         </td>
         <td>
             <img src="https://github.com/MARZ2AMBITION.png?size=100" width="100">
             <br>
-            <a href="https://github.com/MARZ2AMBITION"><I>kongnayeon</I></a>
+            <a href="https://github.com/MARZ2AMBITION"><I>MARZ2AMBITION</I></a>
         </td>
         <td>
             <img src="https://github.com/PowerJu.png?size=100" width="100">
             <br>
-            <a href="https://github.com/PowerJu"><I>AlmondBreez3</I></a>
+            <a href="https://github.com/PowerJu"><I>PowerJu</I></a>
         </td>
         <td>
             <img src="https://github.com/00ill.png?size=100" width="100">
             <br>
-            <a href="https://github.com/00ill"><I>eugene028</I></a>
+            <a href="https://github.com/00ill"><I>00ill</I></a>
         </td>
     </tr>
 </table>
