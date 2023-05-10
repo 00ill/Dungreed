@@ -54,7 +54,7 @@ CharacterMovement.cs
 // ex>
 public class Player
 {
-    private bool _isrun;
+    private bool _isRun;
     public bool IsRun { get; private set; }
     
     private int eventStep;
