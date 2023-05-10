@@ -148,44 +148,37 @@ private IEnumerator Move_co()
 ## 6. 참여자
 <table>
     <tr align="center">
-        <td><B>Lead•FE•UI/UX<B></td>
-        <td><B>Front-end<B></td>
-        <td><B>Front-end<B></td>
-        <td><B>Front-end<B></td>
-        <td><B>Front-end<B></td>
-    </tr>
-    <tr align="center">
-        <td><B>한규진<B></td>
-        <td><B>정상훈<B></td>
-        <td><B>강나연<B></td>
-        <td><B>이한비<B></td>
-        <td><B>김유진<B></td>
+        <td><B>강윤석<B></td>
+        <td><B>김현희<B></td>
+        <td><B>이성준<B></td>
+        <td><B>주성현<B></td>
+        <td><B>최영일<B></td>
     </tr>
     <tr align="center">
         <td>
-            <img src="https://github.com/9yujin.png?size=100">
+            <img src="https://github.com/Cowhydra.png?size=100">
             <br>
-            <a href="https://github.com/9yujin"><I>9yujin</I></a>
+            <a href="https://github.com/Cowhydra"><I>9yujin</I></a>
         </td>
         <td>
-            <img src="https://github.com/wjdtkdgns.png?size=100" width="100">
+            <img src="https://github.com/Kim-hyun-hee.png?size=100" width="100">
             <br>
-            <a href="https://github.com/wjdtkdgns"><I>wjdtkdgns</I></a>
+            <a href="https://github.com/Kim-hyun-hee"><I>wjdtkdgns</I></a>
         </td>
         <td>
-            <img src="https://github.com/kongnayeon.png?size=100" width="100">
+            <img src="https://github.com/MARZ2AMBITION.png?size=100" width="100">
             <br>
-            <a href="https://github.com/kongnayeon"><I>kongnayeon</I></a>
+            <a href="https://github.com/MARZ2AMBITION"><I>kongnayeon</I></a>
         </td>
         <td>
-            <img src="https://github.com/AlmondBreez3.png?size=100" width="100">
+            <img src="https://github.com/PowerJu.png?size=100" width="100">
             <br>
-            <a href="https://github.com/AlmondBreez3"><I>AlmondBreez3</I></a>
+            <a href="https://github.com/PowerJu"><I>AlmondBreez3</I></a>
         </td>
         <td>
-            <img src="https://github.com/eugene028.png?size=100" width="100">
+            <img src="https://github.com/00ill.png?size=100" width="100">
             <br>
-            <a href="https://github.com/eugene028"><I>eugene028</I></a>
+            <a href="https://github.com/00ill"><I>eugene028</I></a>
         </td>
     </tr>
 </table>
